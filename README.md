@@ -1,6 +1,6 @@
-# vite-plugin-template
+# vite-plugin-vue-custom-blocks
 
-开箱即用的 vite 插件模板
+vue sfc 的自定义块 vite 插件
 
 <br />
 
